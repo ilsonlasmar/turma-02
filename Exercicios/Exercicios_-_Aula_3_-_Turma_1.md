@@ -1,7 +1,9 @@
 ### 1. Quais soluções IaaS, PaaS e Saas utilizam
 **Iaas:** AWS, GCP
-**PaaS** AWS Lightsail
-**Saas** Google Drive, Github, NewRelic, Jira
+
+**PaaS:** AWS Lightsail
+
+**Saas:** Google Drive, Github, NewRelic, Jira
 
 ### 2. Desses componentes utilizados, ler no sobre do próprio serviço do player de nuvem, os detalhes de seu funcionamento
 
